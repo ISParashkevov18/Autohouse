@@ -24,6 +24,6 @@ public class VehicleDealer {
     }
 
     public void displayDetails() {
-        
+
     }
 }
